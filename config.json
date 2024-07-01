@@ -1,0 +1,24 @@
+{
+  "source": [
+    "tokens.json"
+  ],
+  "preprocessors": [
+    "tokens-studio"
+  ],
+  "platforms": {
+    "scss": {
+      "buildPath": "build/scss/",
+      "prefix": "gf",
+      "transformGroup": "tokens-studio",
+      "transforms": [
+        "name/kebab"
+      ],
+      "files": [
+        {
+          "destination": "variables.scss",
+          "format": "scss/variables"
+        }
+      ]
+    }
+  }
+}
