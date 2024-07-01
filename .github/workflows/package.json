@@ -1,0 +1,16 @@
+{
+  "name": "sd-output_2024-5-27",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.16.1",
+    "style-dictionary": "^4.0.0-prerelease.39"
+  }
+}
