@@ -12,5 +12,4 @@ jobs:
         with:
           node-version: latest
           registry-url: 'https://npm.pkg.github.com'
-      - run: npm init -y && npm install style-dictionary@prerelease @tokens-studio/sd-transforms
       - run: node build-tokens.mjs
