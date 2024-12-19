@@ -12,5 +12,13 @@
     "@tokens-studio/sd-transforms": "^0.16.1",
     "style-dictionary": "^4.0.0-prerelease.39"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renk-design/tokens-gf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Renk-design/tokens-gf/issues"
+  },
+  "homepage": "https://github.com/Renk-design/tokens-gf#readme",
   "description": ""
 }
